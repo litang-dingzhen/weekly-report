@@ -23,4 +23,14 @@ Implementation of the tasks I have done this week:I have learned to use function
 
 Unsolved problems:Can't use the function skillfully,and don't know much about linux.
 
-Plan for the next week:
+Plan for the next week:Finish C language learning,have a rough understanding about Unix.
+
+Week3
+
+learning hours:8 hours
+
+learing progress:Roughly learned C language,but don't clear about some details,and know a little about Unix.
+
+Implementation of the tasks I have done this week:Gained knowledge about array，point and data structure.
+
+Unsolved problems:Can't use C language skillfully,and just know a little about Linux and Unix.
